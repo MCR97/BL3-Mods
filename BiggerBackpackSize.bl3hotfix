@@ -1,0 +1,35 @@
+@title Bigger Backpack Size
+@version 1.0.0
+@author MCR97
+
+@license Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+@license-url https://creativecommons.org/licenses/by-sa/4.0/
+
+### Backpack: +9 Slots per Upgrade
+
+### Backpack-Upgrades
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv1,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv2,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv3,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv4,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv5,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv6,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv7,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv8,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv9,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv10,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv11,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv12,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
+
+SparkPatchEntry,(1,2,0,),/Game/Pickups/SDU/Table_SDU_Backpack.Table_SDU_Backpack,Lv13,AttributeModifyInfo,0,,(AttributeToModify=/Game/GameData/Attributes/Character/Att_PlayerInventoryMax.Att_PlayerInventoryMax,ModifierType=PreAdd,ModifierValue=(BaseValueConstant=9.0))
